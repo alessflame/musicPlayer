@@ -29,4 +29,5 @@ audio, source{
 .card-footer a{
      color: rgba(0, 0, 0, 0.973);
      text-decoration: none;
+     z-index: 5;
 }
