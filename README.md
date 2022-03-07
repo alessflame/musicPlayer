@@ -2,7 +2,7 @@
 
 A music player created with **Bootstrap** and **Javascript**.
 
-[test](https://serene-pike-38d6ca.netlify.app/)
+[test](https://confident-mclean-c7b3e1.netlify.app/)
 
 
 
