@@ -1,0 +1,32 @@
+audio, source{
+
+     color: red;
+}
+
+.list-group-item{
+     border: none;
+     background-color: transparent;
+}
+
+.card-body{
+     background-image: url(./image/back/inspire-g8930cad16_640.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-color: rgba(17, 16, 16, 0.726);
+     background-blend-mode: multiply;
+}
+
+
+     .list-group-item.active {
+          z-index: 2;
+          color: #fff;
+          background-color: #212529f2;
+          border-color: #212529de;
+}
+
+
+.card-footer a{
+     color: rgba(0, 0, 0, 0.973);
+     text-decoration: none;
+}
