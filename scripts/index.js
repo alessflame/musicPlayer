@@ -57,8 +57,8 @@ songsList.onclick=function (e){ //funzione per gestire la lista -> cliccando una
     let key= element.getAttribute("key");
     let info= controller.setAllInfo(key);
 
-    console.log(info.image);
-    console.log(boxPlayer);
+//     console.log(info.image);
+//     console.log(boxPlayer);
 
   playerChange(key);
 
@@ -134,7 +134,7 @@ beforeButton.onclick=()=>{
 
 
      
-     console.log(key);
+     // console.log(key);
 
 
 }

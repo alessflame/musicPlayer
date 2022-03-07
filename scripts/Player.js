@@ -57,7 +57,7 @@
 
      changeNext(i){
         let id= Number(i) + 1 ;
-       console.log(controller.song.array.length);
+     //   console.log(controller.song.array.length);
 
 
         if(id >= controller.song.array.length){
